@@ -6,6 +6,9 @@ contributor:
     alias: Withington, Elizabeth
     gutenberg_agent_id: '39121'
     url: http://www.gutenberg.org/2009/agents/39121
+covers:
+- cover_type: archival
+  image_path: 74904-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Rhoades, Nina
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '35766'
     url: http://www.gutenberg.org/2009/agents/35766
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74904#A-real-Cinderella
 gutenberg_issued: '2024-12-15'
 gutenberg_type: Text
 identifiers:
